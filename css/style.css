@@ -104,6 +104,9 @@ footer .footer-bottom {
   .lead{
       font-size: 1.3rem
   }
+  .text-center {
+    text-align: center;
+  }
 
   /* Buttons */
 .btn {
